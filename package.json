@@ -1,0 +1,21 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "This repository contains components made using HTML, CSS and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaif/web-components.git"
+  },
+  "keywords": [],
+  "author": "Saif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaif/web-components/issues"
+  },
+  "homepage": "https://github.com/isaif/web-components#readme"
+}
